@@ -40,7 +40,8 @@ w=…<br>
 2.	使用进阶方法构造二十节点体壳单元，其与体单元构造方法唯一不同的地方是使用范围不同，体壳单元使用在上下表面都自由场景，因此我们在构造算例时对于上下表面自由和非自由的需要使用两套单元，然后由计算机完成两套单元的生成。目前体壳单元在厚度方向只有两个节点，因此其只能描述厚度方向常应变变形，对于厚度方向的应力变化则无能为力。使用进阶方法可以构造这类体壳单元，且随着计算机精度的提高，已有有限元方法在厚度方向不能模拟变化应力的缺陷也必然是需要改变的。<br>
 3.	使用高阶方法对已有八节点和八节点体壳单进行优化，可以使用自然坐标或者笛卡尔坐标。体壳单元的位移场必须包含三阶场。<br>
 4.	任意类型过渡单元。<br>
-
+5.  与其它单元的组合补充。<br>
+5.  后续进一步补充....<br>
 ## 参考文献
 [1] He P Q, Sun Q, Liang K. Generalized modal element method: part-I—theory and its application to eight-node asymmetric and symmetric solid elements in linear analysis[J]. Computational Mechanics, 2019:1-27.<br>
 [2] He, P.Q., Sun, Q. & Liang, K. Generalized modal element method: part II—application to eight-node asymmetric and symmetric solid-shell elements in linear analysis. Comput Mech (2019). 
