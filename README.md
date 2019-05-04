@@ -28,6 +28,7 @@
 x yz<br>
 xxxyxzyyyzzzxyz<br>
 xxxxxyxxzxyyxzzyyyyyzyzzzzzxxyzxyyzxyzz …<br>
+<br>
 u=a1 +b1x +c1y +d1z + e1xx +f1xy +g1xz+h1yy+i1yz+j1zz +k1xyz … (共n个变量)<br>
 v=a2 +b2x +c2y +d2z + e2xx + …. (共n个变量)<br>
 w=…<br>
