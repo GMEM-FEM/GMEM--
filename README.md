@@ -43,5 +43,5 @@ w=…<br>
 5.  与其它单元的组合补充。<br>
 6.  后续进一步补充....<br>
 ## 参考文献
-[1] He P Q, Sun Q, Liang K. Generalized modal element method: part-I—theory and its application to eight-node asymmetric and symmetric solid elements in linear analysis[J]. Computational Mechanics, 2019:1-27.<br>
-[2] He, P.Q., Sun, Q. & Liang, K. Generalized modal element method: part II—application to eight-node asymmetric and symmetric solid-shell elements in linear analysis. Comput Mech (2019). 
+[1] He P Q, Sun Q, Liang K. Generalized modal element method: part-I—theory and its application to eight-node asymmetric and symmetric solid elements in linear analysis[J]. Computational Mechanics, 2019.<br>
+[2] He, P.Q., Sun, Q. & Liang, K. Generalized modal element method: part II—application to eight-node asymmetric and symmetric solid-shell elements in linear analysis. Computational Mechanics, 2019. 
