@@ -44,7 +44,7 @@ w=…<br>
 3.	使用自动化方法对[1]中八节点的非物理模态进行优化，同时可以使用自然坐标（[1]中使用的是笛卡尔坐标），但个人感觉使S-MEM8S中将笛卡尔坐标系替换为自然坐标系会得到与Nastran完全一致的单元。<br>
 4.  与其它单元的组合补充，参考[2]。<br>
 5.  **对称与非对称单元的发展，动力学，屈曲，几何非线性，材料非线性....**<br>
-## 同时期待该理论在其它领域中的发芽成长，预测诞生一百篇左右的顶级SCI是可以的。
+## 同时期待该理论在其它领域中的发芽成长。
 
 ## 参考文献
 [1] He P Q, Sun Q, Liang K. Generalized modal element method: part-I—theory and its application to eight-node asymmetric and symmetric solid elements in linear analysis[J]. Computational Mechanics, 2019.<br>
